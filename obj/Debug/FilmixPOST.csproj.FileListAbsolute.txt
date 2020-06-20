@@ -1,0 +1,14 @@
+C:\Users\Владислав\source\repos\FilmixPOST\bin\Debug\FilmixPOST.exe.config
+C:\Users\Владислав\source\repos\FilmixPOST\bin\Debug\FilmixPOST.exe
+C:\Users\Владислав\source\repos\FilmixPOST\bin\Debug\FilmixPOST.pdb
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\App.g.cs
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST_MarkupCompile.cache
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST_MarkupCompile.lref
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\MainWindow.baml
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST.g.resources
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST.Properties.Resources.resources
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST.csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST.exe
+C:\Users\Владислав\source\repos\FilmixPOST\obj\Debug\FilmixPOST.pdb
